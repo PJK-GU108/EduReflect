@@ -1,5 +1,7 @@
+altair
+pandas
 streamlit
 ultralytics
 opencv-python-headless
-pandas
 plotly
+openvino
